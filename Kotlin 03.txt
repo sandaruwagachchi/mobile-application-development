@@ -1,0 +1,7 @@
+fun main() {
+ display("Sandaru", 23)
+}
+
+fun display(name: String, age: Int) {
+   println("I am $name. My age is $age.")
+}
