@@ -1,0 +1,9 @@
+fun main() {
+   val customer = Customer()
+   val details = Details(1, "sandaruwagachchi2890@gmail.com")
+   println(details.email)
+}
+
+class Customer
+
+class Details(val id: Int, var email: String)
