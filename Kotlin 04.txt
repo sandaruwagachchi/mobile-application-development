@@ -1,0 +1,18 @@
+//01
+
+fun main() {
+ println(display("Sandaru", 23))
+}
+
+fun display(name: String, age: Int): String {
+    val displayName = "My name is $name"
+    val displayAge = "My age is $age"
+    return "$displayName\n$displayAge"
+}
+
+
+//02
+
+fun display (name: String, age: Int): String {
+    return "My name is $name.\nMy age is $age."
+}
