@@ -1,0 +1,8 @@
+fun main() {
+ display()
+}
+
+fun display() {
+    println("Hello World!")
+    println("Srilanka.")
+}
