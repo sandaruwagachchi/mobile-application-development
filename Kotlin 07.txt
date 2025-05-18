@@ -1,0 +1,9 @@
+fun main() {
+   var x = "Hello World"
+   var y: String = "SriLanka"
+   var z: String ? = "Programming"
+    
+   println(x)
+   println(y)
+   println(z)
+}
