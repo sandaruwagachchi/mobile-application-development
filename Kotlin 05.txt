@@ -1,0 +1,15 @@
+fun main() {
+   display("Sandaru", "Beliatta") 
+   println(cal(3, 9))
+   println(cal2(10, 3))
+}
+
+fun display (name: String, place: String) {
+    println ("My name is $name, I am from $place")
+}
+
+fun cal (x: Int, y: Int): Int = x * y
+
+fun cal2 (a: Int, b: Int): Int {
+    return a % b
+}
