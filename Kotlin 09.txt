@@ -1,0 +1,12 @@
+fun main() {
+    val num = 4
+    
+    when (num) {
+        1 -> println ("Coffee")
+        2 -> println ("Tea")
+        3 -> println ("Juice")
+        4 -> println ("Water")
+        else -> println ("Invalid selection")
+        
+    }
+}
