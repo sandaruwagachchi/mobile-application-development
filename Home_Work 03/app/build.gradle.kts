@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myhomework03"
+    namespace = "com.example.myhomework04"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.myhomework03"
+        applicationId = "com.example.myhomework04"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
